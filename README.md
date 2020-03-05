@@ -7,7 +7,7 @@
 
 ## Features
 
-This toon shader is the vertex and fragment shader.
+This hologram shader is the vertex and fragment shader.
 
 ![image](https://github.com/swordmaster003/Hologram-Shader/blob/master/Screenshots/1.png)
 
